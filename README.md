@@ -2,7 +2,7 @@
 Text classifcation of tweets regarding COVID using BERT pre-trained model.
 
 # DATASET
- A covid dataset has been collected from kaggle.
+ A dataset of tweets about COVID-19 has been collected from kaggle. The tweets are either positive or negative in sentiment.
  
  Using API calls, the dataset is directly accessed into Google Colab.
  
